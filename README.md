@@ -54,7 +54,8 @@ Evaluate Model
 
 6. Top-K and Top-P Sampling Text Generation
 
-7. gpt2-text-generation-computer/
+# Text Generation Project Structure
+gpt2-text-generation-computer/
 │
 ├── README.md
 ├── requirements.txt
